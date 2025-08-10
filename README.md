@@ -1,1 +1,1 @@
-throw everything on you .config and good luck making shit work
+throw everything on your .config and good luck making shit work
